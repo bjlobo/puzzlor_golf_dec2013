@@ -1,6 +1,5 @@
 import event as ev
 import main
-import numpy as np
 import numpy.random as npr
 ##
 
